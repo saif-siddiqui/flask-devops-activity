@@ -1,4 +1,4 @@
-name: Lab 8 DevOps - Tests CI Pipeline
+name: Activity 8 DevOps - Tests CI Pipeline
 
 on: [push, pull_request]
 

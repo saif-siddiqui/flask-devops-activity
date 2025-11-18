@@ -1,4 +1,4 @@
-name: Lab 8 DevOps - Linting Pipeline
+name: Activity 8 DevOps - Linting Pipeline
 
 on: [push, pull_request]
 
